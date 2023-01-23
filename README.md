@@ -1,5 +1,5 @@
 
-# NodeMCU WebSocket RGB
+# NodeMCU WebSocket
 ## :rocket: Funcionalidades
 
 - Cria um servidor WebSocket no microcontrolador
