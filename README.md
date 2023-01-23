@@ -1,13 +1,11 @@
 
 # NodeMCU Websocket
-
-Código feito para o uC ESP8266 NodeMCU que cria um servidor WebSocket e muda a intensidade de um LED RGB.
-## Funcionalidades
+## :rocket: Funcionalidades
 
 - Cria um servidor WebSocket no microcontrolador
 - Formata os dados recebidos em JSON
 - Muda a intensidade de brilho de um LED RGB de acordo com os parâmetros recebidos
-## Exemplo de Uso
+## :sparkles: Exemplo de Uso
 
 1. Coloque o NodeMCU em uma protoboard e faça as conexões necessárias do LED RGB:
 
