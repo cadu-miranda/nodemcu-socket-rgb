@@ -1,5 +1,5 @@
 
-# NodeMCU Websocket
+# NodeMCU WebSocket RGB
 ## :rocket: Funcionalidades
 
 - Cria um servidor WebSocket no microcontrolador
@@ -34,4 +34,4 @@
 
 ```
 
-Com isso, você verá que a intensidade do LED mudará, respeitando os valores passados na requisição do WebSocket.
+Com isso, você verá que a intensidade do LED mudará, respeitando os valores passados na requisição.
